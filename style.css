@@ -1,0 +1,51 @@
+body {
+    background-color: sandybrown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    width: 50%;
+  }
+
+h1 { 
+    text-align: center;
+    font-weight: bold;
+    color:white;
+    font-size: 24pt;
+    margin-bottom: 20px;
+
+}
+
+p {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+    
+
+}
+
+#interests {
+    margin: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 18pt;
+}
+
+ul {
+    text-align: center;
+    font-style: oblique;
+    color: white;
+}
+
+ul, li {
+    margin: 20pt;
+
+}
